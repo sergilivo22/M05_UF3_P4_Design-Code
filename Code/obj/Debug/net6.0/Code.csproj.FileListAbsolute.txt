@@ -1,0 +1,5 @@
+Z:\Implika\Proyectos\M05_UF3_P4_\Code\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+Z:\Implika\Proyectos\M05_UF3_P4_\Code\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Implika\Proyectos\M05_UF3_P4_\Code\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+Z:\Implika\Proyectos\M05_UF3_P4_\Code\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+Z:\Implika\Proyectos\M05_UF3_P4_\Code\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
